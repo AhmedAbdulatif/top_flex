@@ -1,4 +1,4 @@
-# top_flex
+# TopFlex
 
 A new Flutter project for displaying trending movies and tv shows.
 
